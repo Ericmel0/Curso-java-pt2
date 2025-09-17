@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/data_hora" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Enumeração" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Enumeração e composição" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exceções" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
